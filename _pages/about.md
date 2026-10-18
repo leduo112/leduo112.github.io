@@ -3,56 +3,90 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an MPhil student in Data Science and Analytics at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Jiaheng Wei](#)<!-- TODO: Add Prof. Jiaheng Wei homepage URL --> and [Prof. Yutao Yue](#)<!-- TODO: Add Prof. Yutao Yue homepage URL -->. Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University** and worked as a research assistant in [Prof. Lu Sun](#)<!-- TODO: Add Prof. Lu Sun homepage URL -->'s group on low-carbon urban energy systems.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include:
 
+1. **Data-centric AI**: diagnosing annotation errors in multimodal data, so that models are trained and evaluated on data we can trust.
+2. **Data-driven Low-carbon Energy Systems**: scenario modeling and forecasting for building decarbonization and EV battery recycling.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My goal is to bring data-centric machine learning to energy systems, where data are noisy and decisions are high-stakes.
 
-# 📝 Publications 
+**🔎 I am looking for PhD positions starting in Fall 2027 or Spring 2028. Feel free to reach out by email!**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+<span class='anchor' id='publications'></span>
+
+† Equal contribution.
+
+## 🧩 Data-centric AI
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tag.png' alt="TAG overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**TAG: Task-Conditioned Adaptive Diagnosis for Multimodal Data**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Dongyi Zhang**, Yule Liu, Zhen Sun, Ziyang Liang, Yi Han, Xinlei He, Yutao Yue, Jiaheng Wei, Zhaowei Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Under review at ICLR 2027*
+
+- Wrong answer labels in multimodal datasets silently distort how models are trained and evaluated, and no single detection strategy works best across all tasks.
+- Built a unified benchmark on AVA-Bench, ScienceQA, and MMMU with controlled label noise, and found that the best strategy depends on the task type and the noise level.
+- Proposed **TAG**, which picks a task-specific detection strategy for each sample and falls back to a shared one when the task is uncertain.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## 🌱 Low-carbon Energy Systems
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2025</div><img src='images/buildings.png' alt="Building-sector LCT model" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**The Effect of Low-Carbon Technology on Carbon Emissions Reduction in the Building Sector: A Case Study of Xi'an, China**](https://doi.org/10.3390/buildings15121989)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+**Dongyi Zhang**†, Lu Sun†, Yifan Zhang, Tianye Liu, Lu Gao, Fufu Wang, Xinting Qiao, Yuqi Liu, Jian Zuo, Yupeng Wang
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+*Buildings*, 2025 · [[Paper]](https://doi.org/10.3390/buildings15121989)
+
+- Built a multi-scenario LEAP model of carbon emissions in Xi'an's building sector.
+- Modeled the city-scale reduction potential of five low-carbon technologies, including heat pumps, rooftop PV, and advanced building materials.
+</div>
+</div>
+
+{% comment %}
+<!-- RCR 投出后取消注释：
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/rcr.png' alt="EV battery retirement" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The Carbon Reduction Benefits Analysis of Recycling and Second Life for Electric Vehicle Batteries in China**
+
+<<TODO: 作者列表，本人第二作者，名字加粗>>
+
+*Submitted to Resources, Conservation & Recycling*
+
+- Forecast province-level retirement of EV batteries in China to 2050, combining vehicle adoption curves with battery lifetime distributions.
+- Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
+</div>
+</div>
+-->
+{% endcomment %}
+
+# 📖 Experience
+<span class='anchor' id='experience'></span>
+
+- *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**. Red Bird MPhil Studentship.
+- *2024.08 – 2025.07*, Research Assistant, Prof. Lu Sun's group, **Xi'an Jiaotong University**.
+- *2020.09 – 2024.06*, B.Eng. in Science and Technology of Human Settlements (Big Data & Smart City) and B.Mgt. in Accounting (dual degree), **Xi'an Jiaotong University**. <<TODO: 确认学位英文名称>>
+
+<span class='anchor' id='cv'></span>
+{% comment %}
+# 📄 CV
+
+[Download my CV (PDF)](/files/Dongyi_Zhang_CV.pdf)
+{% endcomment %}
