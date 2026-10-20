@@ -10,25 +10,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student in Data Science and Analytics at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by [Prof. Jiaheng Wei](#)<!-- TODO: Add Prof. Jiaheng Wei homepage URL --> and [Prof. Yutao Yue](#)<!-- TODO: Add Prof. Yutao Yue homepage URL -->. Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University** and worked as a research assistant in [Prof. Lu Sun](#)<!-- TODO: Add Prof. Lu Sun homepage URL -->'s group on low-carbon urban energy systems.
+I am an MPhil student in Data Science and Analytics at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by Prof. Jiaheng Wei and Prof. Yutao Yue. Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University** and worked as a research assistant in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group on low-carbon urban energy systems.
 
-My research interests include:
+My research focuses on **data-centric, trustworthy machine learning**: diagnosing data quality and noise in AI systems, and building reliable data-driven models for low-carbon energy systems. Specifically:
 
 1. **Data-centric AI**: diagnosing annotation errors in multimodal data, so that models are trained and evaluated on data we can trust.
 2. **Data-driven Low-carbon Energy Systems**: scenario modeling and forecasting for building decarbonization and EV battery recycling.
 
 My goal is to bring data-centric machine learning to energy systems, where data are noisy and decisions are high-stakes.
 
-**🔎 I am looking for PhD positions starting in Fall 2027 or Spring 2028. Feel free to reach out by email!**
+<p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
 
 # 📝 Publications
 <span class='anchor' id='publications'></span>
 
-† Equal contribution.
-
 ## 🧩 Data-centric AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/tag.png' alt="TAG overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><img src='images/tag.png' alt="TAG overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TAG: Task-Conditioned Adaptive Diagnosis for Multimodal Data**
@@ -45,7 +43,7 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 
 ## 🌱 Low-carbon Energy Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2025</div><img src='images/buildings.png' alt="Building-sector LCT model" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2025</div><img src='images/buildings.png' alt="Low-carbon technologies in buildings" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**The Effect of Low-Carbon Technology on Carbon Emissions Reduction in the Building Sector: A Case Study of Xi'an, China**](https://doi.org/10.3390/buildings15121989)
@@ -60,13 +58,14 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 </div>
 
 {% comment %}
-<!-- RCR 投出后取消注释：
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/rcr.png' alt="EV battery retirement" width="100%"></div></div>
+RCR: uncomment (remove the comment tags) after submission, and fill in the author list.
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCR (under review)</div><img src='images/rcr.png' alt="EV battery retirement" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Carbon Reduction Benefits Analysis of Recycling and Second Life for Electric Vehicle Batteries in China**
 
-<<TODO: 作者列表，本人第二作者，名字加粗>>
+AUTHOR LIST HERE (bold **Dongyi Zhang**)
 
 *Submitted to Resources, Conservation & Recycling*
 
@@ -74,19 +73,39 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 - Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
 </div>
 </div>
--->
 {% endcomment %}
+
+<p class="pub-note">† Equal contribution.</p>
+
+## 🤝 Other Collaborations
+
+<div class="collab-list" markdown="1">
+
+- **When Can the Runtime Take Over? A Decision-Level Audit of LLM Agent Control**<br>Ziyang Liang, Tiantian Zhu, Haodong Wu, **Dongyi Zhang**, Letong Han, Shuyi Sun, Chang Liu, Yongqi Zhang. *Under review at ICLR 2027*
+- **Degrees of Freedom in LLM Multi-Agent Coordination: Between Centralized and Decentralized Regimes**<br>Yiqing Peng, Hehai Lin, Zixuan Wang, **Dongyi Zhang**, Zhengjie Zhu, Yi Han, Yangyang Zheng, Hao Wang, Qian Li, Chengwei Qin. *Under review at ICLR 2027*
+- **When Conversation Turns Hostile: Conversation-Observing Indirect Prompt Injection for LLM Agents**<br>Yi Han, Zhen Sun, Zhijie Deng, Yini Huang, Yangyang Zheng, **Dongyi Zhang**, Xinlei He. *Under review at ICLR 2027*
+- **Beyond Fixed Workflows: Requirement-Conditioned Program Synthesis for Versatile Music-Driven Video Creation**<br>Yuhan Pu, Ziqian Mo, Zile Yang, Yini Huang, Yi Han, **Dongyi Zhang**, Aiwen Lu, Zeke Xie, Jiaheng Wei. *Under review at ACL Rolling Review*
+
+</div>
+
+# 🛠 Projects
+<span class='anchor' id='projects'></span>
+
+- **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, PI)*. Coupled flow/thermal-resistance network models with COMSOL multiphysics simulation to generate training data, and trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. Rated National Excellent; released as software with a software copyright.
+- **Differentially Private ControlNet for Medical Face Synthesis** *(HKUST(GZ) course project)*. Implemented DP-SGD training with Opacus for privacy-preserving synthesis of facial-palsy images.
 
 # 📖 Experience
 <span class='anchor' id='experience'></span>
 
 - *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**. Red Bird MPhil Studentship.
 - *2024.08 – 2025.07*, Research Assistant, Prof. Lu Sun's group, **Xi'an Jiaotong University**.
-- *2020.09 – 2024.06*, B.Eng. in Science and Technology of Human Settlements (Big Data & Smart City) and B.Mgt. in Accounting (dual degree), **Xi'an Jiaotong University**. <<TODO: 确认学位英文名称>>
+- *2020.09 – 2024.06*, Bachelor's in Science and Technology of Human Settlements (Big Data & Smart City), with a double degree in Accounting, **Xi'an Jiaotong University**.
 
-<span class='anchor' id='cv'></span>
 {% comment %}
-# 📄 CV
+CV: after adding files/Dongyi_Zhang_CV.pdf, uncomment this block and add CV back to _data/navigation.yml.
 
-[Download my CV (PDF)](/files/Dongyi_Zhang_CV.pdf)
+# 📄 CV
+<span class='anchor' id='cv'></span>
+
+[Download my CV (PDF)](files/Dongyi_Zhang_CV.pdf)
 {% endcomment %}

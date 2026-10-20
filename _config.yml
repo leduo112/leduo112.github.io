@@ -26,10 +26,10 @@ author:
   bio              : "MPhil Student @ HKUST(GZ)<br>Data-centric AI · Low-carbon Energy Systems"
   location         : "Guangzhou, China"
   email            : "dzhang236@connect.hkust-gz.edu.cn"
-  googlescholar    : "#" # TODO: Add Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=XBbjPfAAAAAJ"
   github           : "leduo112"
-  orcid            : "#" # TODO: Add ORCID URL
-  openreview       : "#" # TODO: Add OpenReview URL
+  orcid            : "" # add ORCID URL if you have one
+  openreview       : "https://openreview.net/profile?id=~Dongyi_Zhang1"
   employer         :
   pubmed           :
   researchgate     :

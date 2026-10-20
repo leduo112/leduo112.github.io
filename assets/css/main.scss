@@ -107,3 +107,27 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+.phd-callout {
+    margin: 1.5em 0;
+    padding: .8em 1em;
+    border-left: 4px solid #00369f;
+    background-color: #f2f5fb;
+    border-radius: 2px;
+}
+
+.pub-note {
+    margin-top: .8em;
+    font-size: .8em;
+    color: #6f777d;
+}
+
+.collab-list {
+    font-size: .85em;
+
+    ul { margin-top: .5em; }
+
+    li {
+        margin-bottom: .7em;
+        line-height: 1.5;
+    }
+}
