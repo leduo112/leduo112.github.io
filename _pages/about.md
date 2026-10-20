@@ -33,7 +33,7 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 
 ## 🧩 Data-centric AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><a href='images/tag_full.png'><img src='images/tag.png' alt="TAG framework" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><a href='images/tag.png'><img src='images/tag.png' alt="TAG framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TAG: Task-Conditioned Adaptive Diagnosis for Multimodal Data**
@@ -50,7 +50,7 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 
 ## 🌱 Low-carbon Energy Systems
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2025</div><img src='images/buildings.png' alt="Low-carbon technologies in buildings" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Buildings 2025</div><a href='images/buildings.png'><img src='images/buildings.png' alt="Research framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**The Effect of Low-Carbon Technology on Carbon Emissions Reduction in the Building Sector: A Case Study of Xi'an, China**](https://doi.org/10.3390/buildings15121989)
