@@ -10,22 +10,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in DataLab under the supervision of [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei) and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
+I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei)'s DataLab and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
 
 My research focuses on **data-centric, trustworthy machine learning**: diagnosing data quality and noise in AI systems, and building reliable data-driven models for low-carbon energy systems. Specifically:
 
 1. **Data-centric AI**: diagnosing annotation errors in multimodal data, so that models are trained and evaluated on data we can trust.
 2. **Data-driven Low-carbon Energy Systems**: scenario modeling and forecasting for building decarbonization and EV battery recycling.
 
-My goal is to bring data-centric machine learning to energy systems, where data are noisy and decisions are high-stakes.
-
 <p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
 
 # 📖 Education & Research Experience
 <span class='anchor' id='experience'></span>
 
-- *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**. DataLab, supervised by [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei) and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Red Bird MPhil Studentship.
-- *2024.08 – 2025.07*, Research on low-carbon urban energy systems, Prof. Lu Sun's group, **Xi'an Jiaotong University**.
+- *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**.
+- *2024.08 – 2025.07*, Research in Prof. Lu Sun's group, **Xi'an Jiaotong University**.
 - *2020.09 – 2024.06*, Bachelor's in Science and Technology of Human Settlements (Big Data & Smart City), with a double degree in Accounting, **Xi'an Jiaotong University**.
 
 # 📝 Publications
@@ -98,8 +96,9 @@ AUTHOR LIST HERE (bold **Dongyi Zhang**)
 # 🛠 Projects
 <span class='anchor' id='projects'></span>
 
+- **Music Generation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Responsible for quality evaluation of generated audio: crawled chart data from mainstream music platforms as a popularity reference for scoring, and evaluated further dimensions such as musicality. Also contributed to data collection and reference curation for video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL ARR).
+- **Urban Low-carbon Pathway Planning and Carbon-Emission Simulation Platform** *(2024.08 – 2025.07, Prof. Lu Sun's group, Xi'an Jiaotong University)*. Took part in government-commissioned low-carbon pathway planning, carrying out benefit analysis and strategy evaluation with energy-planning models. Designed the requirements for a carbon-emission simulation platform, including the numerical scheme and visualization modules, supporting the development of educational energy-simulation software.
 - **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, PI)*. Coupled flow/thermal-resistance network models with COMSOL multiphysics simulation to generate training data, and trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. Rated National Excellent; released as software with a software copyright.
-- **Differentially Private ControlNet for Medical Face Synthesis** *(HKUST(GZ) course project)*. Implemented DP-SGD training with Opacus for privacy-preserving synthesis of facial-palsy images.
 
 {% comment %}
 CV: after adding files/Dongyi_Zhang_CV.pdf, uncomment this block and add CV back to _data/navigation.yml.

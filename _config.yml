@@ -21,7 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Dongyi Zhang (张东艺)"
+  name             : "Dongyi Zhang"
+  name_zh          : "张东艺"
   avatar           : "images/profile.jpg"
   bio              : "MPhil Student, <a href='https://dsa.hkust-gz.edu.cn/'>DSA Thrust</a>, HKUST(GZ)<br>DataLab<br>Data-centric AI · Low-carbon Energy Systems"
   location         : "Guangzhou, China"
