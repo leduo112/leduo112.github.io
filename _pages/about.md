@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student in Data Science and Analytics at **The Hong Kong University of Science and Technology (Guangzhou)**, advised by Prof. Jiaheng Wei and Prof. Yutao Yue. Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University** and worked as a research assistant in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group on low-carbon urban energy systems.
+I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in DataLab under the supervision of [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei) and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
 
 My research focuses on **data-centric, trustworthy machine learning**: diagnosing data quality and noise in AI systems, and building reliable data-driven models for low-carbon energy systems. Specifically:
 
@@ -21,12 +21,19 @@ My goal is to bring data-centric machine learning to energy systems, where data 
 
 <p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
 
+# 📖 Education & Research Experience
+<span class='anchor' id='experience'></span>
+
+- *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**. DataLab, supervised by [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei) and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Red Bird MPhil Studentship.
+- *2024.08 – 2025.07*, Research on low-carbon urban energy systems, Prof. Lu Sun's group, **Xi'an Jiaotong University**.
+- *2020.09 – 2024.06*, Bachelor's in Science and Technology of Human Settlements (Big Data & Smart City), with a double degree in Accounting, **Xi'an Jiaotong University**.
+
 # 📝 Publications
 <span class='anchor' id='publications'></span>
 
 ## 🧩 Data-centric AI
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><img src='images/tag.png' alt="TAG overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027 (under review)</div><a href='images/tag_full.png'><img src='images/tag.png' alt="TAG framework" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TAG: Task-Conditioned Adaptive Diagnosis for Multimodal Data**
@@ -93,13 +100,6 @@ AUTHOR LIST HERE (bold **Dongyi Zhang**)
 
 - **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, PI)*. Coupled flow/thermal-resistance network models with COMSOL multiphysics simulation to generate training data, and trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. Rated National Excellent; released as software with a software copyright.
 - **Differentially Private ControlNet for Medical Face Synthesis** *(HKUST(GZ) course project)*. Implemented DP-SGD training with Opacus for privacy-preserving synthesis of facial-palsy images.
-
-# 📖 Experience
-<span class='anchor' id='experience'></span>
-
-- *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**. Red Bird MPhil Studentship.
-- *2024.08 – 2025.07*, Research Assistant, Prof. Lu Sun's group, **Xi'an Jiaotong University**.
-- *2020.09 – 2024.06*, Bachelor's in Science and Technology of Human Settlements (Big Data & Smart City), with a double degree in Accounting, **Xi'an Jiaotong University**.
 
 {% comment %}
 CV: after adding files/Dongyi_Zhang_CV.pdf, uncomment this block and add CV back to _data/navigation.yml.

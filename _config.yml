@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dongyi Zhang (张东艺)"
   avatar           : "images/profile.jpg"
-  bio              : "MPhil Student @ HKUST(GZ)<br>Data-centric AI · Low-carbon Energy Systems"
+  bio              : "MPhil Student, <a href='https://dsa.hkust-gz.edu.cn/'>DSA Thrust</a>, HKUST(GZ)<br>DataLab<br>Data-centric AI · Low-carbon Energy Systems"
   location         : "Guangzhou, China"
   email            : "dzhang236@connect.hkust-gz.edu.cn"
   googlescholar    : "https://scholar.google.com/citations?user=XBbjPfAAAAAJ"
