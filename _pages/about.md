@@ -62,15 +62,12 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 </div>
 </div>
 
-{% comment %}
-RCR: uncomment (remove the comment tags) after submission, and fill in the author list.
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCR (under review)</div><img src='images/rcr.png' alt="EV battery retirement" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><a href='images/rcr.png'><img src='images/rcr.png' alt="EV battery retirement projections by chemistry and province" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Carbon Reduction Benefits Analysis of Recycling and Second Life for Electric Vehicle Batteries in China**
 
-AUTHOR LIST HERE (bold **Dongyi Zhang**)
+**Dongyi Zhang** (second author; full author list pending)
 
 *Submitted to Resources, Conservation & Recycling*
 
@@ -78,7 +75,6 @@ AUTHOR LIST HERE (bold **Dongyi Zhang**)
 - Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
 </div>
 </div>
-{% endcomment %}
 
 <p class="pub-note">† Equal contribution.</p>
 
