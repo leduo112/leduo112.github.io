@@ -55,7 +55,7 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 
 **Dongyi Zhang**†, Lu Sun†, Yifan Zhang, Tianye Liu, Lu Gao, Fufu Wang, Xinting Qiao, Yuqi Liu, Jian Zuo, Yupeng Wang
 
-*Buildings*, 2025 · [[Paper]](https://doi.org/10.3390/buildings15121989)
+*Buildings*, 2025
 
 - Built a multi-scenario LEAP model of carbon emissions in Xi'an's building sector.
 - Modeled the city-scale reduction potential of five low-carbon technologies, including heat pumps, rooftop PV, and advanced building materials.
