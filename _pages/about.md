@@ -71,7 +71,7 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
 *Planned for submission to Resources, Conservation & Recycling*
 
-- Forecast province-level retirement of EV batteries in China to 2050, combining vehicle adoption curves with battery lifetime distributions.
+- Forecast province-level retirement of EV batteries in China from 2025 to 2035, combining vehicle adoption curves with battery lifetime distributions.
 - Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
 </div>
 </div>
