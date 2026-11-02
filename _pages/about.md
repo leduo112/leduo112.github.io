@@ -67,7 +67,7 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 
 **The Carbon Reduction Benefits Analysis of Recycling and Second Life for Electric Vehicle Batteries in China**
 
-**Dongyi Zhang** (second author; full author list pending)
+Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
 *Submitted to Resources, Conservation & Recycling*
 
@@ -76,7 +76,7 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 </div>
 </div>
 
-<p class="pub-note">† Equal contribution.</p>
+<p class="pub-note">* Corresponding author. † Equal contribution.</p>
 
 ## 🤝 Other Collaborations
 
