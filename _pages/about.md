@@ -62,14 +62,14 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted</div><a href='images/rcr.png'><img src='images/rcr.png' alt="EV battery retirement projections by chemistry and province" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Planned</div><a href='images/rcr.png'><img src='images/rcr.png' alt="EV battery retirement projections by chemistry and province" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Carbon Reduction Benefits Analysis of Recycling and Second Life for Electric Vehicle Batteries in China**
 
 Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
-*Submitted to Resources, Conservation & Recycling*
+*Planned for submission to Resources, Conservation & Recycling*
 
 - Forecast province-level retirement of EV batteries in China to 2050, combining vehicle adoption curves with battery lifetime distributions.
 - Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
