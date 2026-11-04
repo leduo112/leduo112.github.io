@@ -10,12 +10,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei)'s DataLab and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees in Science and Technology of Human Settlements and Accounting from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
+I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**. My advisor is [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei) of DataLab, and my co-advisor is [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees in Science and Technology of Human Settlements and Accounting from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
 
-My research spans **data-centric machine learning** and **data-driven low-carbon energy systems**. Specifically:
+My research interests span **data-centric machine learning** and **data-driven low-carbon energy systems**:
 
-1. **Data-centric AI**: detecting noisy data and evaluating dataset quality, with current work on multimodal annotation errors.
-2. **Data-driven Low-carbon Energy Systems**: scenario modeling and forecasting for building decarbonization and EV battery recycling.
+1. **Data-centric AI**: data quality assessment and noisy-label analysis, particularly in multimodal datasets.
+2. **Data-driven low-carbon energy systems**: scenario modeling and forecasting for building decarbonization and EV battery retirement and recycling.
 
 <p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
 
@@ -95,7 +95,7 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 ### Graduate Research · Data Quality and Evaluation
 
 - **TAG: Multimodal Annotation-Error Diagnosis** *(2026.01 – present, DataLab, HKUST(GZ))*. Curated multimodal benchmarks, compared 88 encoder–detector combinations across three datasets, and developed task- and noise-conditioned diagnostic strategies. The first-author ICLR 2027 submission reports a 1.24-percentage-point AUROC improvement over the best shared strategy on AVA-Bench.
-- **Music Generation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Collected chart data from major music platforms to score the popularity of generated music and evaluated additional dimensions, including musicality. Organized data, references, and action-instruction prompts for music-driven video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL Rolling Review).
+- **Generated Music Quality Evaluation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Collected chart data from major music platforms to score the popularity of generated music and evaluated additional dimensions, including musicality. Organized data, references, and action-instruction prompts for music-driven video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL Rolling Review).
 
 ### Research Assistant Projects · Low-Carbon Systems
 
@@ -106,7 +106,7 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 ### Undergraduate Research and Training
 
 - **Building-Sector Decarbonization in Xi’an** *(2024 – 2025)*. Built LEAP scenarios for building-sector emissions and modeled the reduction potential of five low-carbon technologies. Orally presented *Carbon Reduction Prediction for Low-Carbon Building Retrofitting in Cities* at ICoGB 2025 and received the **Best Student Paper Award**. The research was subsequently published in *Buildings* in June 2025.
-- **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, summer project competition)*. Processed spatiotemporal data and contributed to a charging-station siting plan. The team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
+- **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, Peking University summer project)*. Used DBSCAN to analyze spatiotemporal data and contributed to a charging-station siting plan. The team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
 - **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, project lead)*. Combined flow and thermal-resistance network models with COMSOL multiphysics simulation to generate training data, then trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. The project was rated National Excellent and released as copyrighted software.
 - **Building Energy Use and Conservation Potential from Monitoring Data** *(2022.05 – 2023.05, undergraduate innovation project)*. Cleaned building-energy monitoring data, detected outliers, and visualized results to assess conservation potential. The project was rated National Excellent.
 
