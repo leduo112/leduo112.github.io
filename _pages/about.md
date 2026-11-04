@@ -10,11 +10,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei)'s DataLab and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
+I am an MPhil student in the [Data Science and Analytics (DSA) Thrust](https://dsa.hkust-gz.edu.cn/) at **The Hong Kong University of Science and Technology (Guangzhou)**, working in [Prof. Jiaheng Wei](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/WEI-Jiaheng/jiahengwei)'s DataLab and co-supervised by [Prof. Yutao Yue](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/YUE-Yutao/yutaoyue). Before that, I received dual bachelor's degrees in Science and Technology of Human Settlements and Accounting from **Xi'an Jiaotong University**, where I also conducted research on low-carbon urban energy systems in [Prof. Lu Sun](https://gr.xjtu.edu.cn/web/0020210384)'s group.
 
-My research focuses on **data-centric, trustworthy machine learning**: diagnosing data quality and noise in AI systems, and building reliable data-driven models for low-carbon energy systems. Specifically:
+My research spans **data-centric machine learning** and **data-driven low-carbon energy systems**. Specifically:
 
-1. **Data-centric AI**: diagnosing annotation errors in multimodal data, so that models are trained and evaluated on data we can trust.
+1. **Data-centric AI**: detecting noisy data and evaluating dataset quality, with current work on multimodal annotation errors.
 2. **Data-driven Low-carbon Energy Systems**: scenario modeling and forecasting for building decarbonization and EV battery recycling.
 
 <p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
@@ -24,7 +24,7 @@ My research focuses on **data-centric, trustworthy machine learning**: diagnosin
 
 - *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**.
 - *2024.08 – 2025.07*, Research in Prof. Lu Sun's group, **Xi'an Jiaotong University**.
-- *2020.09 – 2024.06*, Bachelor's in Science and Technology of Human Settlements (Big Data & Smart City), with a double degree in Accounting, **Xi'an Jiaotong University**.
+- *2020.09 – 2024.06*, Dual bachelor's degrees in Science and Technology of Human Settlements (Big Data & Smart City) and Accounting, **Xi'an Jiaotong University**.
 
 # 📝 Publications
 <span class='anchor' id='publications'></span>
@@ -71,8 +71,8 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
 *Planned for submission to Resources, Conservation & Recycling*
 
-- Forecast province-level retirement of EV batteries in China from 2025 to 2035, combining vehicle adoption curves with battery lifetime distributions.
-- Linked retirement volumes to the carbon benefits of recycling and second-life use, and to recycling capacity under new policy rules.
+- Forecast province-level EV battery retirement in China from 2025 to 2035 by combining new-vehicle promotion scenarios with battery lifetime distributions.
+- Prepared data analyses and figures for the team's assessment of carbon benefits from battery recycling and second-life use.
 </div>
 </div>
 
@@ -92,14 +92,14 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 # 🛠 Projects
 <span class='anchor' id='projects'></span>
 
-- **Music Generation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Responsible for quality evaluation of generated audio: crawled chart data from mainstream music platforms as a popularity reference for scoring, and evaluated further dimensions such as musicality. Also contributed to data collection and reference curation for video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL ARR).
-- **Differentially Private Medical Image Generation** *(2026.03 – 2026.06, course project, HKUST(GZ))*. Implemented the differential privacy module for a ControlNet-guided image generator, using DP-SGD with Opacus to study the privacy–utility trade-off on facial-palsy images from 206 patients.
+- **Music Generation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Collected chart data from major music platforms to score the popularity of generated music and evaluated additional dimensions, including musicality. Organized data, references, and action-instruction prompts for music-driven video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL Rolling Review).
+- **Differentially Private Medical Image Generation** *(2026.03 – 2026.06, HKUST(GZ))*. Implemented a differential privacy module for ControlNet-guided medical image generation using DP-SGD and Opacus, and analyzed the privacy–utility trade-off on facial-palsy images.
 - **TAG: Multimodal Annotation-Error Diagnosis** *(2026.01 – present, DataLab, HKUST(GZ))*. Curated multimodal benchmarks, compared 88 encoder–detector combinations across three datasets, and developed task- and noise-conditioned diagnostic strategies. The first-author ICLR 2027 submission reports a 1.24-percentage-point AUROC improvement over the best shared strategy on AVA-Bench.
-- **EV Battery Retirement and Recycling Benefits** *(2025.06 – present, Prof. Lu Sun's group, Xi'an Jiaotong University)*. Forecast new-energy vehicle promotion across 31 provincial regions with Gompertz scenarios and a national-pathway calibration. Combined vehicle type, battery chemistry, and staged Weibull lifetimes to estimate retired battery quantities, energy, and mass for the team's recycling and second-life carbon-benefit analysis.
+- **EV Battery Retirement Prediction and Recycling/Second-Life Carbon Benefits** *(2025.11 – present, Prof. Lu Sun's group, Xi'an Jiaotong University)*. Forecast annual new-energy vehicle promotion volumes across 31 provincial regions using Gompertz scenarios and national-pathway calibration. Combined vehicle type, battery chemistry, and staged Weibull lifetimes to estimate retired battery quantities, energy, and mass. Analyzed data and prepared figures for the team's recycling and second-life carbon-benefit assessment.
 - **Silver Economy Industrial Platform** *(2025.01 – 2025.06, collaboration with Peking University)*. Analyzed the industry's spatial and temporal development and organized a database linking technologies, products, and demand.
 - **Urban Low-Carbon Pathway Planning via Multi-Network Integration** *(2024.08 – 2024.12, government collaboration, Xi'an Jiaotong University)*. Built six carbon-emission scenarios from single-sector to multi-sector settings, incorporating transportation-network analysis to support urban low-carbon pathway planning.
 - **Carbon-Emission Calculation Platform and Emission-Factor Database** *(2024.07 – 2025.03, collaboration with Xi'an Sanhao Software Co.)*. Designed the numerical scheme, functional requirements, and visualization modules for an educational carbon-emission simulation platform, and contributed to its emission-factor database.
-- **Building-Sector Decarbonization in Xi'an** *(2024 undergraduate thesis; expanded into a 2025 Buildings paper)*. Built LEAP scenarios for building-sector emissions and modeled the reduction potential of five low-carbon technologies. The paper reports a combined reduction potential of 25.8%; I am the first-listed author and contributed equally with Prof. Lu Sun.
+- **Building-Sector Decarbonization in Xi'an** *(2024 undergraduate thesis; 2025 conference presentation and journal article)*. Built LEAP scenarios for building-sector emissions and modeled the reduction potential of five low-carbon technologies. Orally presented the conference paper *Carbon Reduction Prediction for Low-Carbon Building Retrofitting in Cities* at the [3rd International Conference on Green Building (ICoGB 2025)](https://www.icogb.org/his25) and received its **Best Student Paper Award** on 26 April 2025. Extended this research into a [*Buildings* article](https://doi.org/10.3390/buildings15121989), published in June 2025 with 25.8% combined reduction potential.
 - **ESG Performance and Corporate Value in the Automotive Industry** *(2024, Accounting undergraduate thesis)*. Conducted an empirical study of the relationship between automotive companies' ESG performance and corporate value.
 - **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, summer project competition)*. Processed spatiotemporal data and contributed to a charging-station siting plan. Our team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
 - **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, PI)*. Coupled flow/thermal-resistance network models with COMSOL multiphysics simulation to generate training data, and trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. Rated National Excellent; released as software with a software copyright.
