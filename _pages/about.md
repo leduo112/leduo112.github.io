@@ -17,13 +17,13 @@ My research interests span **data-centric machine learning** and **data-driven l
 1. **Data-centric AI**: data quality assessment and noisy-label analysis, particularly in multimodal datasets.
 2. **Data-driven low-carbon energy systems**: scenario modeling and forecasting for building decarbonization and EV battery retirement and recycling.
 
-<p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong>. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
+<p class="phd-callout">🔎 I am looking for PhD positions starting in <strong>Fall 2027 or Spring 2028</strong> and am also open to RA opportunities. Feel free to reach out by <a href="mailto:dzhang236@connect.hkust-gz.edu.cn">email</a>!</p>
 
 # 📖 Education & Research Experience
 <span class='anchor' id='experience'></span>
 
 - *2025.09 – 2027.07 (expected)*, MPhil in Data Science and Analytics, **The Hong Kong University of Science and Technology (Guangzhou)**.
-- *2024.08 – 2025.07*, Research in Prof. Lu Sun's group, **Xi'an Jiaotong University**.
+- *2024.08 – 2025.07*, Research in Prof. Lu Sun's group, **Xi'an Jiaotong University**; continuing EV battery research collaboration since *2025.11*.
 - *2020.09 – 2024.06*, Dual bachelor's degrees in Science and Technology of Human Settlements (Big Data & Smart City) and Accounting, **Xi'an Jiaotong University**.
 
 # 📝 Publications
@@ -53,7 +53,7 @@ My research interests span **data-centric machine learning** and **data-driven l
 
 [**The Effect of Low-Carbon Technology on Carbon Emissions Reduction in the Building Sector: A Case Study of Xi'an, China**](https://doi.org/10.3390/buildings15121989)
 
-**Dongyi Zhang**†, Lu Sun†, Yifan Zhang, Tianye Liu, Lu Gao, Fufu Wang, Xinting Qiao, Yuqi Liu, Jian Zuo, Yupeng Wang
+**Dongyi Zhang**†, Lu Sun†*, Yifan Zhang, Tianye Liu, Lu Gao, Fufu Wang, Xinting Qiao, Yuqi Liu, Jian Zuo, Yupeng Wang
 
 *Buildings*, 2025
 
@@ -71,8 +71,8 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
 *Planned for submission to Resources, Conservation & Recycling*
 
-- Forecast province-level EV battery retirement in China from 2025 to 2035 by combining new-vehicle promotion scenarios with battery lifetime distributions.
-- Prepared data analyses and figures for the team's assessment of carbon benefits from battery recycling and second-life use.
+- Forecast 2025–2035 province-level retired-battery supply from new-energy vehicle promotion scenarios, vehicle type, battery chemistry, and lifetime distributions.
+- Combined retired-battery estimates with whitelisted recyclers' actual output, planned capacity, and pathway-specific carbon benefits to assess recycling and second-life mitigation potential and regional supply–capacity mismatches.
 </div>
 </div>
 
@@ -99,14 +99,14 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 
 ### Research Assistant Projects · Low-Carbon Systems
 
-- **EV Battery Retirement Prediction and Recycling/Second-Life Carbon Benefits** *(2025.11 – present, Prof. Lu Sun’s group, Xi’an Jiaotong University)*. Forecast annual new-energy vehicle promotion volumes across 31 provincial regions using Gompertz scenarios and national-pathway calibration. Combined vehicle type, battery chemistry, and staged Weibull lifetimes to estimate retired battery quantities, energy, and mass. Analyzed data and prepared figures for the team’s recycling and second-life carbon-benefit assessment.
+- **EV Battery Retirement Prediction, Recycling/Second-Life Carbon Benefits, and Regional Capacity Matching** *(2025.11 – present, Prof. Lu Sun’s group, Xi’an Jiaotong University)*. Forecast 2025–2035 retired-battery supply across 31 provincial regions from annual new-energy vehicle promotion scenarios, vehicle type, battery chemistry, and Weibull lifetimes. Combined these estimates with whitelisted recyclers' actual output and planned capacity to assess carbon benefits and regional supply–capacity mismatches.
 - **Urban Low-Carbon Pathway Planning via Multi-Network Integration** *(2024.08 – 2024.12, government collaboration, Xi’an Jiaotong University)*. Built six carbon-emission scenarios from single-sector to multi-sector settings and incorporated transportation-network analysis to support urban low-carbon pathway planning.
 - **Carbon-Emission Calculation Platform and Emission-Factor Database** *(2024.07 – 2025.03, collaboration with Xi’an Sanhao Software Co.)*. Designed the numerical scheme, functional requirements, and visualization modules for an educational carbon-emission simulation platform, and contributed to its emission-factor database.
 
 ### Undergraduate Research and Training
 
 - **Building-Sector Decarbonization in Xi’an** *(2024 – 2025)*. Built LEAP scenarios for building-sector emissions and modeled the reduction potential of five low-carbon technologies. Orally presented *Carbon Reduction Prediction for Low-Carbon Building Retrofitting in Cities* at ICoGB 2025 and received the **Best Student Paper Award**. The research was subsequently published in *Buildings* in June 2025.
-- **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, Peking University summer project)*. Used DBSCAN to analyze spatiotemporal data and contributed to a charging-station siting plan. The team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
+- **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, summer project)*. Processed urban spatiotemporal data and contributed to a charging-station siting plan. The team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
 - **ML Surrogate for Hydrogen Fuel-Cell Stacks** *(2022.05 – 2023.05, undergraduate innovation project, project lead)*. Combined flow and thermal-resistance network models with COMSOL multiphysics simulation to generate training data, then trained a neural-network surrogate to predict stack discharge performance and cell-to-cell consistency. The project was rated National Excellent and released as copyrighted software.
 - **Building Energy Use and Conservation Potential from Monitoring Data** *(2022.05 – 2023.05, undergraduate innovation project)*. Cleaned building-energy monitoring data, detected outliers, and visualized results to assess conservation potential. The project was rated National Excellent.
 

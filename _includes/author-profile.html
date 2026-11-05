@@ -109,7 +109,7 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
-      {% if author.orcid %}
+      {% if author.orcid and author.orcid != "" %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.impactstory %}
@@ -207,7 +207,7 @@
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
-      {% if author.orcid %}
+      {% if author.orcid and author.orcid != "" %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
       {% if author.impactstory %}
