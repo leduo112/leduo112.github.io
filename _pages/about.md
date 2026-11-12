@@ -92,19 +92,19 @@ Chenyang Wang, **Dongyi Zhang**, Xin Sun, Lu Sun*
 # 🛠 Projects
 <span class='anchor' id='projects'></span>
 
-### Graduate Research · Data Quality and Evaluation
+### HKUST(GZ) · Graduate Research
 
 - **TAG: Multimodal Annotation-Error Diagnosis** *(2026.01 – present, DataLab, HKUST(GZ))*. Curated multimodal benchmarks, compared 88 encoder–detector combinations across three datasets, and developed task- and noise-conditioned diagnostic strategies. The first-author ICLR 2027 submission reports a 1.24-percentage-point AUROC improvement over the best shared strategy on AVA-Bench.
 - **Red Bird AI Business Automation Platform — Quality Assurance and Governance** *(2025.12 – 2026.12, team project, HKUST(GZ))*. The platform uses AI agents to answer product questions and guide shoppers, and to help staff at small and midsize retailers check inventory and manage day-to-day operations. I was responsible for quality assurance and governance. I organized test cases for common retail scenarios and specified reference answers, expected actions, and when to escalate to a human. I also designed an evaluation workflow that uses agent execution logs to identify errors in responses, business decisions, and tool calls, support human review, and guide regression testing after fixes.
 - **Generated Music Quality Evaluation and Music-Driven Video Creation** *(2026.03 – 2026.09, DataLab, HKUST(GZ))*. Collected chart data from major music platforms to score the popularity of generated music and evaluated additional dimensions, including musicality. Organized data, references, and action-instruction prompts for music-driven video generation. Related manuscript: *Beyond Fixed Workflows* (under review at ACL Rolling Review).
 
-### Research Assistant Projects · Low-Carbon Systems
+### XJTU · Research Assistant
 
 - **EV Battery Retirement Prediction, Recycling/Second-Life Carbon Benefits, and Regional Capacity Matching** *(2025.11 – present, Prof. Lu Sun’s group, Xi’an Jiaotong University)*. Forecast 2025–2035 retired-battery supply across 31 provincial regions from annual new-energy vehicle promotion scenarios, vehicle type, battery chemistry, and Weibull lifetimes. Combined these estimates with whitelisted recyclers' actual output and planned capacity to assess carbon benefits and regional supply–capacity mismatches.
 - **Urban Low-Carbon Pathway Planning via Multi-Network Integration** *(2024.08 – 2024.12, government collaboration, Xi’an Jiaotong University)*. Built six carbon-emission scenarios from single-sector to multi-sector settings and incorporated transportation-network analysis to support urban low-carbon pathway planning.
 - **Carbon-Emission Calculation Platform and Emission-Factor Database** *(2024.07 – 2025.03, collaboration with Xi’an Sanhao Software Co.)*. Designed the numerical scheme, functional requirements, and visualization modules for an educational carbon-emission simulation platform, and contributed to its emission-factor database.
 
-### Undergraduate Research and Training
+### XJTU · Undergraduate Research
 
 - **Building-Sector Decarbonization in Xi’an** *(2024 – 2025)*. Built LEAP scenarios for building-sector emissions and modeled the reduction potential of five low-carbon technologies. Orally presented *Carbon Reduction Prediction for Low-Carbon Building Retrofitting in Cities* at ICoGB 2025 and received the **Best Student Paper Award**. The research was subsequently published in *Buildings* in June 2025.
 - **BeiDou-Based EV Charging-Station Siting** *(2023.07 – 2023.09, summer project)*. Processed urban spatiotemporal data and contributed to a charging-station siting plan. The team won first prize in the annual final of the 6th “BeiDou Star” Silk Road International Challenge.
